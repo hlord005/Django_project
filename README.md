@@ -1,1 +1,1 @@
-# Django_project
+# An Ecommerce Project
